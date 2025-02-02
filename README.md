@@ -23,6 +23,7 @@ This custom component is more or less the beta version of the [official componen
 | Air Purifier           | zhimi.airpurifier.v1   | | |
 | Air Purifier 2         | zhimi.airpurifier.v2   | FJY4006CN, AC-M2-AA  | 37m<sup>2</sup>, 310m<sup>3</sup>/h CADR, 31W  |
 | Air Purifier V3        | zhimi.airpurifier.v3   | | |
+| Air Purifier 4         | zhimi.airp.mb5a        | | |
 | Air Purifier V5        | zhimi.airpurifier.v5   | | |
 | Air Purifier Pro       | zhimi.airpurifier.v6   | | |
 | Air Purifier Pro V7    | zhimi.airpurifier.v7   | | |
